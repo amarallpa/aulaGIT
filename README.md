@@ -1,6 +1,6 @@
 # Título Principal do meu Read Me
 Descriçao  read me
 ## Subtítulo
-blabla
+Esse [e o texto do Subtitulo]
 ## para que serve
 serve para
